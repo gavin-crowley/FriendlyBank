@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91bfbfb2-e312-4536-81c6-0753bd59573d": {
+      "ProjectGuid": "91bfbfb2-e312-4536-81c6-0753bd59573d",
+      "DisplayName": "Sandbox",
+      "ColorIndex": 0
+    },
+    "1a8eff90-8f85-4826-a715-9a686ee78256": {
+      "ProjectGuid": "1a8eff90-8f85-4826-a715-9a686ee78256",
+      "DisplayName": "1-FB",
+      "ColorIndex": 1
+    },
+    "d3111cd6-4818-477d-804b-4977a313dafe": {
+      "ProjectGuid": "d3111cd6-4818-477d-804b-4977a313dafe",
+      "DisplayName": "2-FB",
+      "ColorIndex": 2
+    },
+    "93b0d0a2-a8c3-4582-8cb7-d89d52ad388c": {
+      "ProjectGuid": "93b0d0a2-a8c3-4582-8cb7-d89d52ad388c",
+      "DisplayName": "3-FB",
+      "ColorIndex": 3
+    },
+    "e0222f97-a15a-4bde-9eac-a96177025507": {
+      "ProjectGuid": "e0222f97-a15a-4bde-9eac-a96177025507",
+      "DisplayName": "Main-1-FB",
+      "ColorIndex": 4
+    },
+    "588f0336-6b3b-4334-bf6d-a2914e442a23": {
+      "ProjectGuid": "588f0336-6b3b-4334-bf6d-a2914e442a23",
+      "DisplayName": "Main-2-FB",
+      "ColorIndex": 5
+    },
+    "8d9b479f-76e7-474f-ad0f-d37374e61928": {
+      "ProjectGuid": "8d9b479f-76e7-474f-ad0f-d37374e61928",
+      "DisplayName": "Main-3-FB",
+      "ColorIndex": 6
+    },
+    "bfe75338-0455-423e-8f1c-72f0a03e2348": {
+      "ProjectGuid": "bfe75338-0455-423e-8f1c-72f0a03e2348",
+      "DisplayName": "Main-4-FB",
+      "ColorIndex": 7
+    },
+    "0252e86e-78a7-4545-81d9-413dec1c35b9": {
+      "ProjectGuid": "0252e86e-78a7-4545-81d9-413dec1c35b9",
+      "DisplayName": "4-FB",
+      "ColorIndex": 8
+    },
+    "e31f79c9-51b4-4a9a-8e3e-1431aee0d458": {
+      "ProjectGuid": "e31f79c9-51b4-4a9a-8e3e-1431aee0d458",
+      "DisplayName": "Main-5-FB",
+      "ColorIndex": 9
+    },
+    "5bbcd109-ca2a-4eb2-be0e-61bce29800e4": {
+      "ProjectGuid": "5bbcd109-ca2a-4eb2-be0e-61bce29800e4",
+      "DisplayName": "5-FB",
+      "ColorIndex": 10
+    },
+    "48f2ced4-7030-4553-bd45-4112b05d0590": {
+      "ProjectGuid": "48f2ced4-7030-4553-bd45-4112b05d0590",
+      "DisplayName": "Main-6-FB",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

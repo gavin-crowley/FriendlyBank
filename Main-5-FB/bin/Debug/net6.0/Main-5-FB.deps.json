@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Main-5-FB/1.0.0": {
+        "runtime": {
+          "Main-5-FB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main-5-FB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

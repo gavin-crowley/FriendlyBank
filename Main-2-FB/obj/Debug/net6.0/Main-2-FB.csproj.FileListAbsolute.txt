@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\bin\Debug\net6.0\Main-2-FB.exe
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\bin\Debug\net6.0\Main-2-FB.deps.json
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\bin\Debug\net6.0\Main-2-FB.runtimeconfig.json
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\bin\Debug\net6.0\Main-2-FB.dll
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\bin\Debug\net6.0\ref\Main-2-FB.dll
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\bin\Debug\net6.0\Main-2-FB.pdb
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.dll
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\ref\Main-2-FB.dll
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.pdb
+C:\Users\gavin\Documents\C#\RobMiles\FriendlyBank\Main-2-FB\obj\Debug\net6.0\Main-2-FB.genruntimeconfig.cache

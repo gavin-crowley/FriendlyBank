@@ -14,3 +14,9 @@ This program demonstrates the following aspects of OOP:
 - encapsulation
 - abstraction
 - inheritance
+
+
+<h1 align="center">
+  <br>
+  <a href="https://bit.ly/3Q8G5MJ"><img src="./img/fitness-mate.PNG" alt="Fitness Mate" width="200"></a>
+</h1>

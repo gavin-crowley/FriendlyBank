@@ -18,5 +18,5 @@ This program demonstrates the following aspects of OOP:
 
 <h1 align="center">
   <br>
-  <a href="https://bit.ly/3Q8G5MJ"><img src="./friendly-bank.PNG" alt="Friendly Bank" width="200"></a>
+  <a href="https://bit.ly/3Q8G5MJ"><img src="./friendly-bank.PNG" alt="Friendly Bank" width="800"></a>
 </h1>
